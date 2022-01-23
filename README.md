@@ -12,4 +12,4 @@ Enter your Birthday along with your own lucky number and check out if you are lu
 - HTML5
 - CSS3
 - JavaScript
-Check out the live project - "[Live]()"
+Check out the live project - "[Live](https://rutuja0802.github.io/Lucky_birthday/)"
